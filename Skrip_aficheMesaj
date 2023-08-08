@@ -1,0 +1,4 @@
+non_mwen = "Belizaire"
+laj = 23
+mesaj = "Mwen rele " + str(int(non_mwen) + "mwen gen" + " " + ane_nesans) + "lane"
+print(mesaj)
