@@ -1,0 +1,10 @@
+a=25
+b=23.5
+
+print(float(a) + b)
+
+print(float(a) - b)
+
+print(float(a) * b)
+
+print(float(a) / b)
