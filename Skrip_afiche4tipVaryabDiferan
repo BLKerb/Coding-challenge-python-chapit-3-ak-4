@@ -1,0 +1,14 @@
+a=12
+type(a)
+
+b='blk'
+type(b)
+
+c=None
+type(c)
+
+d=true
+type(d)
+
+e=(1,2,3,4)
+type(e)
